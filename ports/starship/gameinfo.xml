@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gamelist>
+<gameList>
 	<game>
 		<path>./Starship.sh</path>
 		<name>Starship</name>
@@ -10,4 +10,4 @@
 		<publisher>Harbour Masters</publisher>
 		<genre>Action</genre>
 	</game>
-<gamelist>
+</gameList>

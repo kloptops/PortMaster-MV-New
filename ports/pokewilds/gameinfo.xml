@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gamelist>
+<gameList>
 	<game>
 		<path>./Pokewilds.sh</path>
 		<name>Pokéwilds</name>
@@ -9,4 +9,4 @@
 		<developer>Pokéwilds Team</developer>
 		<genre>RPG</genre>
 	</game>
-</gamelist>
+</gameList>
